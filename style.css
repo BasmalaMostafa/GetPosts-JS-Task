@@ -1,0 +1,15 @@
+.container{
+    border :2px solid grey;
+    padding: 20px;
+    margin-top: 20px;
+    width: 45%;
+    margin-left: 20%;
+}
+
+.bttn{
+    background-color: rgb(199, 157, 220);
+    width: 120px;
+    height: 70px;
+    margin-left: 1%;
+    margin-top: auto;
+}
